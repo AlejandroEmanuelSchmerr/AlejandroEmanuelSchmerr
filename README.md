@@ -8,7 +8,7 @@
 ## 🌟 Sobre mí
 
 - 📍 Córdoba Capital, Argentina.  
-- 📚 Actualmente cursando el último año de especialización en programación en el **Colegio IPET N°57 "Comodoro Martin Rivadavia"** (2017-2024).  
+- 📚 Tecnico en programacion.  
 - 🌱 Me encanta aprender y utilizar nuevas tecnologías para resolver problemas y crear soluciones innovadoras.  
 - 🤝 Valoro el trabajo en equipo y tengo una sólida mentalidad proactiva.  
 
